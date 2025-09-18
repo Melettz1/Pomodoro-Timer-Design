@@ -3,6 +3,8 @@
 Um **Pomodoro Timer moderno** feito com **React + TypeScript + Vite + TailwindCSS + shadcn/ui**.  
 Desenvolvido por [Melettz1](https://github.com/Melettz1) para **uso pessoal**.
 
+Visite em https://pomodoro-timer-melettz1.vercel.app/
+
 <img width="474" height="926" alt="image" src="https://github.com/user-attachments/assets/f1f25159-d6ac-4666-b7d0-cbac6df42054" />
 
 ---
